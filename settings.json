@@ -1,0 +1,12 @@
+{
+  "token": "ODU0MzQ4OTIyNzMwNDQ2ODk4.YMiocA.4kcfFAUkeaBafZ7Sa7QI6aXOIlE",
+  "prefix" : "d!",
+  "owner" : ["846637454945419264"],
+  "clientid" : "854348922730446898",
+  "clientsecret" : "fj4xeWdZXhU3mBF_G-Fg0SCMR6cxkuyb",
+  "clientcallback" : "https://localhost:8000/callback",
+  "mongoURL" : "mongodb+srv://conghal:thuongvu1@disbotlist.mpn8f.mongodb.net/dbbots?retryWrites=true&w=majority",
+  "serverID": "853688617510895666",
+  "footer": "dcbl.ml",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Giveaway"]
+}
