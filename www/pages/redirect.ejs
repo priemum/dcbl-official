@@ -1,6 +1,6 @@
 <%
 var url = new URL(`https://disbotlist.xyz/redirect?type=${req.query.type}`);
-var params = new URLSearchParams(url.search);
+var params = new URLSearchParams(url.search);              
 %>
 <head>
     <% if(params.get('type') === "botInvite") {%>
